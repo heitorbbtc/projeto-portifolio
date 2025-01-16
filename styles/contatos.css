@@ -1,5 +1,5 @@
 #contatos {
-  background-image: url(/assets/images/Background_Contacts.png);
+  background-image: url(./assets/images/Background_Contacts.png);
   background-position: center;
   background-size: cover;
   color: var(--base-color-gray-500);
